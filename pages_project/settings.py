@@ -25,7 +25,7 @@ SECRET_KEY = 'u7q!%ip+_s9920xh74$qsefpw3&jff^davnzieg=68wsty16%0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
